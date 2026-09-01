@@ -1,0 +1,24 @@
+[submodule "cesium-tutorial-build-a-philadelphia-tour-with-cesiumjs-using-ai"]
+	path = cesium-tutorial-build-a-philadelphia-tour-with-cesiumjs-using-ai
+	url = https://github.com/abdshomad/cesium-tutorial-build-a-philadelphia-tour-with-cesiumjs-using-ai.git
+[submodule "cesium-flight-simulator"]
+	path = cesium-flight-simulator
+	url = https://github.com/abdshomad/cesium-flight-simulator.git
+[submodule "GenRecon"]
+	path = GenRecon
+	url = https://github.com/abdshomad/GenRecon.git
+[submodule "gods-eye-view"]
+	path = gods-eye-view
+	url = https://github.com/abdshomad/gods-eye-view.git
+[submodule "slang-splat-demo-jul-2026"]
+	path = slang-splat-demo-jul-2026
+	url = https://github.com/abdshomad/slang-splat-demo-jul-2026.git
+[submodule "slang-splat"]
+	path = slang-splat
+	url = https://github.com/abdshomad/slang-splat.git
+[submodule "osiris"]
+	path = osiris
+	url = https://github.com/abdshomad/osiris.git
+[submodule "worldmonitor"]
+	path = worldmonitor
+	url = https://github.com/abdshomad/worldmonitor.git
